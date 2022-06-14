@@ -1,0 +1,23 @@
+.color-title {
+  color: #fff;
+  margin-top: 100px !important;
+  width: 300px;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+  font: normal normal 600 40px "Dancing Script", cursive, "Times New Roman",
+    Times, sans-serif;
+}
+
+.color {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  margin: 5px;
+  font-size: 30px;
+  color: #fff;
+  cursor: pointer;
+  height: 200px;
+}
