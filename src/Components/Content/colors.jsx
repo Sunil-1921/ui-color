@@ -21,6 +21,7 @@ export const Colors = () => {
                                     )
                                 })}
                             </div>
+                            <br />
                             <hr />
                         </>
                     )
