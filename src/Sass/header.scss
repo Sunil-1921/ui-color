@@ -1,0 +1,26 @@
+.Color {
+  color: red;
+}
+
+.navbar-brand {
+  // font-size: 50px;
+  font-family: "Dancing Script", cursive, "Times New Roman", Times, sans-serif;
+}
+
+.navbar {
+  .container-fluid {
+    display: flex;
+    justify-content: space-around;
+  }
+}
+
+.navbar {
+  height: 50px;
+  .container-fluid {
+    .navbar-nav {
+      .ui-color {
+        font-size: 40px;
+      }
+    }
+  }
+}
