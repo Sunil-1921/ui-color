@@ -3,7 +3,8 @@
 UiColor is a plateform for developers where they can use commonly used colors in their projects or products. It is very easy to use, just click on color which you like and Hexadecimal value of that color will be copied, then you can simply add in your projects.
 
 <p align="left">
-<a href="https://github.com/Sunil-1921"><button name="button" onMouseOut="this.style.boxShadow='none'" onMouseOver="this.style.boxShadow=`0 2px 5px #000`"  style = "border: none; color: black; width: 120px; background-color: #38CC77; padding: 5px; transition: 0.3s all ease-in-out">Visit site</button></a> <a href="https://github.com/Sunil-1921"><button name="button" onMouseOut="this.style.boxShadow='none'" onMouseOver="this.style.boxShadow=`0 2px 5px #000`"  style = "color: black; width: 120px; background-color: #12B0E8; border: none; padding: 5px; transition: 0.3s all ease-in-out">Demo video</button></a>
+<a href="https://github.com/Sunil-1921">Visit site</a>&nbsp;&nbsp;
+<a href="https://github.com/Sunil-1921">Demo video</a>
 </p>
 
 ## Connect with me
