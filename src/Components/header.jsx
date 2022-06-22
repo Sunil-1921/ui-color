@@ -4,25 +4,25 @@ import '../Sass/header.scss'
 export const Header = () => {
     return (
         <>
-            <nav class="navbar navbar-expand bg-dark navbar-dark">
-                <div class="container-fluid">
-                    <ul class="navbar-nav">
-                        <a class="navbar-brand ui-color" href="/">UI <span class="Color">Color</span></a>
+            <nav className="navbar navbar-expand bg-dark navbar-dark">
+                <div className="container-fluid">
+                    <ul className="navbar-nav">
+                        <a className="navbar-brand ui-color" href="/">UI <span className="Color">Color</span></a>
                     </ul>
-                    <ul class="navbar-nav">
-                        <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="/">Home</a>
+                    <ul className="navbar-nav">
+                        <li className="nav-item">
+                            <a className="nav-link" aria-current="page" href="/">Home</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="/">About</a>
+                        <li className="nav-item">
+                            <a className="nav-link" href="/">About</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="/">Contact</a>
+                        <li className="nav-item">
+                            <a className="nav-link" href="/">Contact</a>
                         </li>
                     </ul>
-                    <ul class="navbar-nav">
-                        <li class="nav-item">
-                            <a class="nav-link" href="/">SignIn/Up</a>
+                    <ul className="navbar-nav">
+                        <li className="nav-item">
+                            <a className="nav-link" href="/">SignIn/Up</a>
                         </li>
                     </ul>
                 </div>

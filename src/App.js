@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Header />
-      <Colors />
+      <Colors key={"i"} />
       <Footer />
     </>
   );
