@@ -14,17 +14,14 @@ export const Header = () => {
                             <a className="nav-link" aria-current="page" href="https://sunil-1921.github.io/ui-color/">Home</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="https://sunil-1921.github.io/ui-color/">About</a>
-                        </li>
-                        <li className="nav-item">
                             <a className="nav-link" href="https://sunil-1921.github.io/ui-color/">Contact</a>
                         </li>
                     </ul>
-                    <ul className="navbar-nav">
+                    {/* <ul className="navbar-nav">
                         <li className="nav-item">
                             <a className="nav-link" href="https://sunil-1921.github.io/ui-color/">SignIn/Up</a>
                         </li>
-                    </ul>
+                    </ul> */}
                 </div>
             </nav>
         </>
