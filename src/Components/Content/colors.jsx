@@ -24,7 +24,7 @@ export const Colors = () => {
                     return (
                         <>
                             <div className="container color-title" >{val.title.toUpperCase()}</div>
-                            <div className="row row-cols-2 row-cols-lg-6 g-2 g-lg-3">
+                            <div className="row  row-cols-lg-6 g-lg-3">
                                 {val.colors.map((clr, index) => {
                                     return (
                                         <>
