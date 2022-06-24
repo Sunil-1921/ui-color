@@ -1,4 +1,4 @@
-# Getting Started with [UiColor](https://sunil-1921.github.io/ui-color/)
+<h1 align="center">Getting Started with <a href="https://sunil-1921.github.io/ui-color/">UiColor</a></h1>
 
 <p align="center">
 <a href="https://github.com/Sunil-1921/github-profile-readme-generator/blob/master/LICENSE" target="blank">
