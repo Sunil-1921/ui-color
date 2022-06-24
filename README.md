@@ -16,9 +16,6 @@
 <a href="https://github.com/Sunil-1921/github-profile-readme-generator/pulls" target="blank">
 <img src="https://img.shields.io/github/issues-pr/Sunil-1921/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
 </a>
-<a href="https://discord.gg/HHMs7Eg" target="blank">
-<img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
-</a>
 </p>
 
 UiColor is a plateform for developers where they can use commonly used colors in their projects or products. It is very easy to use, just click on color which you like and Hexadecimal value of that color will be copied, then you can simply add in your projects.
