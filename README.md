@@ -55,3 +55,6 @@ You may also see any lint errors in the console.
 
 ## LICENSE
 [License](LICENSE.md)
+
+## Contribution
+Checkout [CONTRIBUTING](CONTRIBUTING.md) docs for more information.
