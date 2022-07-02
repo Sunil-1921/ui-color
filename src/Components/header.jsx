@@ -16,7 +16,7 @@ export const Header = () => {
                             <a className="nav-link" aria-current="page" href="https://sunil-1921.github.io/ui-color/">Home</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="https://sunil-1921.github.io/ui-color/">Contact</a>
+                            <a className="nav-link" href="#footer">Contact</a>
                         </li>
                     </ul>
                     {/* <ul className="navbar-nav">
