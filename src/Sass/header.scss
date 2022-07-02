@@ -33,3 +33,24 @@
     }
   }
 }
+
+@media only screen and (max-width: 600px) {
+  .navbar {
+    .container-fluid {
+      .navbar-nav {
+        .logo {
+          width: 30px;
+          height: 30px;
+          margin-top: 8px;
+        }
+        .navbar-brand {
+          font-size: 25px;
+        }
+        .nav-link {
+          margin: 0;
+          font-size: 15px;
+        }
+      }
+    }
+  }
+}
