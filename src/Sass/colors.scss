@@ -1,6 +1,6 @@
 .color-title {
-  color: #fff;
-  margin-top: 100px !important;
+  color: #000;
+  margin-top: 100px;
   width: 300px;
   display: flex;
   justify-content: center;
@@ -8,19 +8,25 @@
   font: normal normal 600 40px "Dancing Script", cursive, "Times New Roman",
     Times, sans-serif;
   transition: all 0.3s ease-in;
+  cursor: default;
 }
 
 .color {
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 50%;
+  border-radius: 15%;
+  margin-bottom: 50px;
   font-size: 30px;
-  color: #fff;
+  color: #000;
   cursor: pointer;
   width: 150px;
   height: 150px;
-  transition: all 0.3s ease-in;
+  transition: all 0.2s ease-in;
+
+  &:hover {
+    box-shadow: 0 10px 20px -5px rgb(31, 31, 31);
+  }
 }
 .col {
   margin: 5px 0;

@@ -5,7 +5,7 @@ exports.UiColors = [
     },
     {
         title: 'Blue Colors',
-        colors: ['#1B98F5', '#23C4ED', '#383CC1', '#12B0E8', '#51E1ED', '#207398', '#46B2E0', '#3944F7', '#2827CC', '#120E43', '#5DA3FA', '#03203C']
+        colors: ['#1B98F5', '#23C4ED', '#383CC1', '#12B0E8', '#51E1ED', '#207398', '#46B2E0', '#3944F7', '#2827CC', '#5DA3FA']
     },
     {
         title: 'Green Colors',

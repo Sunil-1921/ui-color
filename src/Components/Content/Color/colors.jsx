@@ -1,7 +1,7 @@
 import React from 'react'
-import { UiColors } from './Constants/UiColors'
+import { UiColors } from '../Constants/UiColors'
 import { Color } from './color'
-import '../../Sass/colors.scss'
+import '../../../Sass/colors.scss'
 
 // const copyColor = () => {
 //     // let copytext = document.getElementById("myColor")
@@ -38,11 +38,11 @@ export const Colors = () => {
                                 })}
                             </div>
                             <br />
-                            <hr />
                         </>
                     )
                 })}
             </div>
+            <hr />
         </>
     )
 }
