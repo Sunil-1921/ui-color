@@ -5,7 +5,7 @@ import '../Sass/footer.scss'
 export const Footer = () => {
     return (
         <>
-            <div className="container title">
+            <div id='footer' className="container title">
                 <div className="contact">Contact</div>
                 <div className="icons">
                     <a href="https://twitter.com/s_sirvi1921"><i class="fa-brands fa-twitter"></i></a>

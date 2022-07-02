@@ -1,7 +1,6 @@
 import React from 'react'
 
 const copyColor = (e) => {
-    // let copytext = document.querySelectorAll(".color")
     navigator.clipboard.writeText(e.target.innerHTML)
 }
 export const Color = (props) => {
