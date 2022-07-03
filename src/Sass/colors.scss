@@ -1,53 +1,60 @@
-.color-title {
-  color: #000;
-  margin-top: 20px;
-  width: 300px;
-  display: flex;
-  justify-content: center;
-  margin-bottom: 40px;
-  font: normal normal 600 40px "Dancing Script", cursive, "Times New Roman",
-    Times, sans-serif;
-  transition: all 0.3s ease-in;
-  cursor: default;
-}
-
-.color {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border-radius: 15%;
-  margin-bottom: 50px;
-  font-size: 30px;
-  color: #000;
-  cursor: pointer;
-  width: 150px;
-  height: 150px;
-  transition: all 0.2s ease-in;
-
-  &:hover {
-    box-shadow: 0 10px 20px -5px rgb(31, 31, 31);
+.all {
+  .color-title {
+    color: #000;
+    margin-top: 20px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    font: normal normal 600 35px "Dancing Script", cursive, "Times New Roman",
+      Times, sans-serif;
+    transition: all 0.3s ease-in;
+    cursor: default;
   }
-}
 
-.col {
-  display: flex;
-  justify-content: space-evenly;
-  margin: 5px 0;
+  .col {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 5px 0;
+
+    .color {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 15%;
+      margin-bottom: 50px;
+      font-size: 30px;
+      color: #fff;
+      cursor: pointer;
+      width: 150px;
+      height: 150px;
+      transition: all 0.2s ease-in;
+
+      &:hover {
+        box-shadow: 0 10px 20px -5px rgb(31, 31, 31);
+      }
+    }
+  }
 }
 
 @media only screen and (max-width: 600px) {
   .all {
     margin-left: 0px;
-  }
-  .color {
-    width: 60px;
-    height: 60px;
-    font-size: 12px;
-  }
-  .col {
-    width: 120px;
-  }
-  .color-title {
-    font-size: 30px;
+
+    .color-title {
+      margin-bottom: 20px;
+      font-size: 30px;
+    }
+
+    .col {
+      width: 120px;
+
+      .color {
+        width: 60px;
+        height: 60px;
+        font-size: 12px;
+        margin-bottom: 10px;
+      }
+    }
   }
 }

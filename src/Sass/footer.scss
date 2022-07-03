@@ -1,20 +1,37 @@
-.icons {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 40px;
-  i {
-    margin: 0 20px;
+.title {
+  .contact {
+    color: #000;
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: #03203c;
+  }
+
+  .icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    i {
+      margin: 0 20px;
+      color: #000;
+    }
   }
 }
-.contact {
-  margin-top: 50px !important;
-  font-size: 40px;
-  color: #000;
-  margin: 20px 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 60px;
-  color: #03203c;
+
+@media only screen and (max-width: 600px) {
+  .title {
+    .contact {
+      font-size: 30px;
+    }
+
+    .icons {
+      i {
+        color: #000;
+        font-size: 35px;
+      }
+    }
+  }
 }

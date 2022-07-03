@@ -20,12 +20,11 @@ export const Colors = () => {
                                     )
                                 })}
                             </div>
-                            <br />
+                            <hr />
                         </>
                     )
                 })}
             </div>
-            <hr />
         </>
     )
 }

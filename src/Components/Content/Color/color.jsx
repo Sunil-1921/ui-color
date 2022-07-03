@@ -6,7 +6,7 @@ const copyColor = (e) => {
 export const Color = (props) => {
     return (
         <>
-            <div className="col " onClick={(e) => copyColor(e)}>
+            <div className="col" onClick={(e) => copyColor(e)}>
                 <div className="p-3 color" style={{ backgroundColor: props.clr }}>{props.clr}</div>
             </div>
         </>
