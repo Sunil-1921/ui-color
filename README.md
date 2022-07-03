@@ -21,8 +21,12 @@
 UiColor is a plateform for developers where they can use commonly used colors in their projects or products. It is very easy to use, just click on color which you like and Hexadecimal value of that color will be copied, then you can simply add in your projects.
 
 <p align="left">
-<a href="https://sunil-1921.github.io/ui-color/">Visit site</a>&nbsp;&nbsp;
+<a href="https://sunil-1921.github.io/ui-color/">Visit site</a>
 </p>
+
+## Demo
+![GitHub-ui-color-demo](https://user-images.githubusercontent.com/64888485/177025598-9ebc9f0c-5684-478f-8128-0e41c933a34b.gif)
+
 
 ## Connect with me
 
