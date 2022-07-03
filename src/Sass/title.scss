@@ -1,11 +1,19 @@
-.title-heading {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 60px;
-  color: #03203c;
-}
-
 .title {
   padding-top: 30px;
+
+  .title-heading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    color: #03203c;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .title {
+    .title-heading {
+      font-size: 40px;
+    }
+  }
 }
