@@ -1,14 +1,13 @@
-import './App.css';
-import { Header } from './Components/header';
-import { Title } from './Components/title';
-import { Footer } from './Components/footer';
-import { Colors } from './Components/Content/Color/colors';
-import './Sass/body.scss'
 import React from "react";
+import { Toaster } from "react-hot-toast";
+
+import { Header, Title, Footer, Colors } from "./Components";
+import "./Sass/index.scss";
 
 function App() {
   return (
     <>
+      <Toaster />
       <Header />
       <Title />
       <Colors />

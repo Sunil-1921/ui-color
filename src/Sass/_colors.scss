@@ -6,8 +6,8 @@
     display: flex;
     justify-content: center;
     margin-bottom: 40px;
-    font: normal normal 600 35px "Dancing Script", cursive, "Times New Roman",
-      Times, sans-serif;
+    font-size : 35px; 
+    font-weight: 600;
     transition: all 0.3s ease-in;
     cursor: default;
   }
