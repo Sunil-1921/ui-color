@@ -25,7 +25,7 @@ UiColor is a plateform for developers where they can use commonly used colors in
 </p>
 
 ## Demo
-![GitHub-ui-color-demo](https://user-images.githubusercontent.com/64888485/177025598-9ebc9f0c-5684-478f-8128-0e41c933a34b.gif)
+![ui-color-picker-demo](https://user-images.githubusercontent.com/64888485/195871672-22c296e3-8150-4871-8d7e-292e554a8107.gif)
 
 
 ## Connect with me
